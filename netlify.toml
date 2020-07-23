@@ -4,7 +4,7 @@
   command = "yarn build"
 
 [template.environment]
-  GATSBY_MOLTIN_CLIENT_ID = lKZb07BUcc1tnikGqfj9eowpddc9sj06P91WMDbjLm
+  GATSBY_MOLTIN_CLIENT_ID = "lKZb07BUcc1tnikGqfj9eowpddc9sj06P91WMDbjLm"
   GATSBY_STRIPE_PUBLISHABLE_KEY = "Your Stripe publishable key"
   GATSBY_ALGOLIA_PLACES_APP_ID = "Your Algolia places app ID"
   GATSBY_ALGOLIA_PLACES_API_KEY = "Your Algolia places API key"
