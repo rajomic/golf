@@ -31,7 +31,7 @@ function MoltinProvider({
   ...props
 }) {
   const moltin = new MoltinClient({
-    client_id: clientId,
+    client_id: lKZb07BUcc1tnikGqfj9eowpddc9sj06P91WMDbjLm,
     application: 'gatsby-demo-store',
     storage: new MoltinLocalStorageAdapter()
   })
